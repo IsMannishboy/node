@@ -1,0 +1,4 @@
+./app/back/node_modules
+./app/back/package-lock.json
+./app/front/front/package-lock.json
+./app/front/front/node_modules
